@@ -7,4 +7,4 @@
 ## UX Journal
 [Journal 1 Entry](journal01/README.md)
 
-[Journal 1 Entry](journal02/README.md)
+[Journal 2 Entry](journal02/README.md)
