@@ -1,34 +1,15 @@
-# Complaints for Microsoft Word on Surface
+# Appeciation for Visual Studio Code
 
-## David Ayala 03/04/2021
+## David Ayala 05/02/2021
 
-I have been using computers since I was in first grade. I am able to pick up new technologies quickly and understand 
-them based on me seeing the same patterns over and over. 
+I am a computer science student, and I have been using computers for since I was in the first grade. Computer science students learn about theories on how to make computers do helpful tasks in our daily life as fast and robust as possible. Many decades of technology advancement has gotten them this far, which is why we are able to use them as much as we do. I want to help in this advancement, which is why I am studying it. Programming is the ability to speak the same language as the computer to tell it to do what you want. It is an important skill to have as a computer science student. I first started programming in my community college, but my experiences as a young one have helped me learn how to do it quickly.
 
-I got a Microsoft Surface 2 Go recently along with a touch pen. This is **useful** because I do not have to purchase 
-more notebooks, printer paper and printer ink. I got Microsoft Word on my Surface, and I desire to be able to use it
-by simply opening PDFs and editing them to finish school assignments. This will make me get my homework done **effectively**,
-and it could save me money from buying tons of notebooks. My notes can also be stored on the cloud to prevent them from
-being lost as well.
+Programming is done similarly to the way one would type an essay on a computer. There are tools that help us write and format our essays, such as Microsoft Word, or Google Docs. The same way there are tools for writing essays, there are tools for programming. These are usually called IDEs (Integrated Development Environment). They provides us with help remebering certain words that the computer understands, which is similar to how something like Microsoft Word helps us format our essays in a particular format for our English class.
 
 ![](pic1.png)
 
-To begin working on an assignment, I downloaded an assignment PDF that my machine learning instructor gave me.
-This usually works just fine and I am able to open the file in Microsoft Word and begin drawing on it using
-the pen. This usually works great and I am **satisfied** with the ability to move the text down to make room for more
-drawings. Microsoft Word is quickly **learnable**. 
-
-The problem occurs when I write to the end of the document and I need to add a page to draw more. I can't use the Insert 
-Page because it will insert whereever the text insert icon is, which near the top of the page. I can't move the text insert 
-after I already drew on the page because it will move all the drawings down as well, which will make it hard to tell what
-I was trying to accomplish. This fails to be **error-tolerant**. 
-
-As a result, I have to draw this ugly arrow to instruct to the grader that my work continues on the next page, and I have
-to move all the writing down. This is also not **safe** as if the grader does not know what I intend, I could lose grade
-points and lower my overall homework grade.
+My current favorite IDE is called Visual Studio Code, which helps me program for school assignments and fun side projects. It is **satisfying** since it makes special words for the computer different, pretty colors so it's easy to tell what is doing what. Special characters that tell the computer when something starts and ends can be highlighted by clicking the start or the end to it. It makes having to remember certain words of programming trivial. It is **effective** since it helps me get the job done quick. It is quickly **memorable** since it only takes about 2 steps to start programming: I open a folder where my project should be stored, I create a file for my work, and I am ready to go! 
 
 ![](pic2.png)
 
-I believe this should be addressed by allowing the text editor cursor to be moved around freely using the touch pen without
-bringing up the keyboard and having to press the enter key over and over. If this feature would be added, this would not
-be an issue for those who don't have money for the additional keyboard.
+The only complaint I have is Visual Studio Code is not **error-tolerant**, since sometimes the syntax coloring does not apply, and it does not explain why. You have to spend hours searching on the internet what the possible issue is, and the fixes require many steps that the end-user shouldn't have to deal with. Sometimes it won't fix until you completely redownload the whole IDE again. Fixing this is also not **safe** since, while attempting to fix it, the user may accidently delete all their custom settings for the IDE. Once they are deleted, you have to set them back up again.
