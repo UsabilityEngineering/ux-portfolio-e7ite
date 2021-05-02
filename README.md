@@ -5,4 +5,4 @@
 
 
 ## UX Journal
-
+[Journal 1 Entry](journal01/README.md)
