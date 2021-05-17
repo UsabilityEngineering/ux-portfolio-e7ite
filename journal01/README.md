@@ -14,9 +14,10 @@ being lost as well.
 ![](pic1.png)
 
 To begin working on an assignment, I downloaded an assignment PDF that my machine learning instructor gave me.
-This usually works just fine and I am able to open the file in Microsoft Word and begin drawing on it using
+This usually works just fine, and I am able to open the file in Microsoft Word and draw on it using
 the pen. This usually works great and I am **satisfied** with the ability to move the text down to make room for more
-drawings. Microsoft Word is quickly **learnable**. 
+drawings. Microsoft Word is quickly **learnable**, because it the tabs make it easy to find certain things, and they are easy
+to remember. I was adapt to where everything is, and know it for the rest of my assignments afterwards.  
 
 The problem occurs when I write to the end of the document and I need to add a page to draw more. I can't use the Insert 
 Page because it will insert whereever the text insert icon is, which near the top of the page. I can't move the text insert 
